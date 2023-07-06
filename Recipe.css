@@ -1,0 +1,27 @@
+header{
+    margin: 1%; 
+}
+
+body{
+    color: #e83151;
+    background-color: #387780;
+}
+
+#uldiv{
+    background-color: #D2CCA1;
+    border: 2px solid black;
+    width: 70%;
+    margin: 1%;
+}
+
+
+#oldiv{
+background-color: #DBD4D3;
+border: 2px solid black;
+width: 70%;
+margin: 1%;
+}
+img{
+    margin: 1%;
+    border: 2px solid black;
+}
