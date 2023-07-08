@@ -9,22 +9,20 @@ body {
     font-size: 22px;
 }
 
-#uldiv {
-    background-color: #D2CCA1;
+.card {
+    background-color: #BEE9E8;
     border: 2px solid black;
     width: 70%;
     margin: 1%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    color: #1B4965;
+    border-radius: 30px;
 }
 
-
-#oldiv {
-    background-color: #DBD4D3;
-    border: 2px solid black;
-    width: 70%;
-    margin: 1%;
-}
 
 img {
     margin: 1%;
     border: 2px solid black;
+    border-radius: 30px;
 }
