@@ -1,13 +1,15 @@
-header{
-    margin: 1%; 
+header {
+    margin: 1%;
 }
 
-body{
-    color: #e83151;
-    background-color: #387780;
+body {
+    color: #CAE9FF;
+    background-color: #1B4965;
+    font-family: 'Poppins';
+    font-size: 22px;
 }
 
-#uldiv{
+#uldiv {
     background-color: #D2CCA1;
     border: 2px solid black;
     width: 70%;
@@ -15,13 +17,14 @@ body{
 }
 
 
-#oldiv{
-background-color: #DBD4D3;
-border: 2px solid black;
-width: 70%;
-margin: 1%;
+#oldiv {
+    background-color: #DBD4D3;
+    border: 2px solid black;
+    width: 70%;
+    margin: 1%;
 }
-img{
+
+img {
     margin: 1%;
     border: 2px solid black;
 }
